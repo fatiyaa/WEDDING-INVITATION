@@ -67,7 +67,7 @@ body {
 
 audio {
   filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-  width: 200px;
+  width: 220px;
   height: 20px;
   border-radius: 10px;
   border: 1px solid rgb(41, 41, 41);
